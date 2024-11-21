@@ -1,5 +1,4 @@
-# BestAngelo
-Profile Readme
+# Angelo Torres
 Hello!!
 My name is Angelo Torres.
 I am a freshman at the **University of Chicago**.
